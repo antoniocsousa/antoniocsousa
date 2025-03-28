@@ -1,5 +1,4 @@
 # 💻 Antônio Sousa
-
 **`Desenvolvedor FullStack`**
 
 ## Sobre mim:
