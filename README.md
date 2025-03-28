@@ -2,8 +2,6 @@
 
 **`Desenvolvedor FullStack`**
 
----
-
 ## Sobre mim:
 
 ## Redes Sociais:
