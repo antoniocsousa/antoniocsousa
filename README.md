@@ -5,4 +5,4 @@
 ## Sobre mim:
 
 ## Redes Sociais:
-[LinkedIn](www.linkedin.com/in/antônio-sousa) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antônio-sousa)  
