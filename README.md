@@ -10,6 +10,7 @@ aprender algo novo aplicar meus conhecimentos em projetos práticos. Atualmente 
 conhecimentos em desenvolvimento FullStack utilizando tecnologias como React e Node.js.
 
 <br/>
+<br/>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/antônio-sousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
