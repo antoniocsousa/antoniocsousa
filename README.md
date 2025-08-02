@@ -9,7 +9,10 @@ por tecnologia desde sempre, gosto de explorar diferentes linguagens e ferrament
 aprender algo novo aplicar meus conhecimentos em projetos práticos. Atualmente estou buscando aprofundar meus
 conhecimentos em desenvolvimento FullStack utilizando tecnologias como React e Node.js.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antônio-sousa) 
+<p align="center">
+    <a href="https://www.linkedin.com/in/antônio-sousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+
 
 ## Linguagens e tecnologias:
 <img 
