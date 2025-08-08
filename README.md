@@ -4,7 +4,7 @@
       <summary><h1 style="display: inline-block"> 👋Olá! Sou Antônio Sousa.
 </h1></summary>
   </div>
-Sou estudante de **engenharia de computação** no **Instituto Federal do Ceará - IFCE**. Sou apaixonado 
+Sou estudante de <strong>engenharia de computação</strong> no <strong>Instituto Federal do Ceará - IFCE</strong>. Sou apaixonado 
 por tecnologia desde sempre, gosto de explorar diferentes linguagens e ferramentas, sempre buscando 
 aprender algo novo aplicar meus conhecimentos em projetos práticos. Atualmente estou buscando aprofundar meus
 conhecimentos em desenvolvimento FullStack utilizando tecnologias como React e Node.js.
