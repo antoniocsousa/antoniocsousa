@@ -5,7 +5,9 @@
 </h1></summary>
   </div> -->
 
-`👋Olá mundo! Sou Antônio Sousa.`
+``` bash
+👋Olá mundo! Sou Antônio Sousa.
+```
 
 Sou estudante de <strong>engenharia de computação</strong> no <strong>Instituto Federal do Ceará - IFCE</strong>. Sou apaixonado 
 por tecnologia desde sempre, gosto de explorar diferentes linguagens e ferramentas, sempre buscando 
