@@ -1,23 +1,16 @@
 <!--título-->
-<!-- <div id="user-content-toc">
+<div id="user-content-toc">
     <ul align="center">
       <summary><h1 style="display: inline-block"> 👋Olá mundo! Sou Antônio Sousa.
 </h1></summary>
-  </div> -->
-
-<div align="center">
-
-    ``` bash
-    $ echo "Olá mundo! eu sou Antônio"
-    ```
-</div>
+  </div>
 
 Sou estudante de <strong>engenharia de computação</strong> no <strong>Instituto Federal do Ceará - IFCE</strong>. Sou apaixonado 
 por tecnologia desde sempre, gosto de explorar diferentes linguagens e ferramentas, sempre buscando 
 aprender algo novo e aplicar meus conhecimentos em projetos práticos. Atualmente estou buscando aprofundar meus
 conhecimentos em desenvolvimento FullStack utilizando tecnologias como React e Node.js.
 
-<br/>
+<br/> 
 <br/>
 
 <p align="left">
