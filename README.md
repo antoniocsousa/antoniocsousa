@@ -6,7 +6,8 @@
   </div> -->
 
 <div align="center">
-```bash
+
+``` bash
 $ echo "Olá mundo! eu sou Antônio"
 ```
 </div>
