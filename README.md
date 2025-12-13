@@ -7,9 +7,9 @@
 
 <div align="center">
 
-``` bash
-$ echo "Olá mundo! eu sou Antônio"
-```
+    ``` bash
+    $ echo "Olá mundo! eu sou Antônio"
+    ```
 </div>
 
 Sou estudante de <strong>engenharia de computação</strong> no <strong>Instituto Federal do Ceará - IFCE</strong>. Sou apaixonado 
