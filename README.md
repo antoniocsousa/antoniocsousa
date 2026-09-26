@@ -69,11 +69,6 @@
 
 </details>
 
-Sou estudante de <strong>engenharia de computação</strong> no <strong>Instituto Federal do Ceará - IFCE</strong>. Sou apaixonado 
-por tecnologia desde sempre, gosto de explorar diferentes linguagens e ferramentas, sempre buscando 
-aprender algo novo e aplicar meus conhecimentos em projetos práticos. Atualmente estou buscando aprofundar meus
-conhecimentos em desenvolvimento FullStack utilizando tecnologias como React e Node.js.
-
 
 
 <p align="left">
