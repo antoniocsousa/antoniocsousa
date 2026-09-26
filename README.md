@@ -1,7 +1,18 @@
+
+<div align="center">
+  
+  <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Kamilly Medino</b>
+      Hi there! I'm <b>Antônio Sousa</b>
   </samp>
+</div>
+
+<div align="center" width="100%">
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5127F7&center=true&vCenter=true&width=435&lines=I'm+a+Computer+Engineering+Student+" alt="Typing SVG" /></a>
+
+<br>
 
 Sou estudante de <strong>engenharia de computação</strong> no <strong>Instituto Federal do Ceará - IFCE</strong>. Sou apaixonado 
 por tecnologia desde sempre, gosto de explorar diferentes linguagens e ferramentas, sempre buscando 
