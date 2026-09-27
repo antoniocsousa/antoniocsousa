@@ -2,7 +2,7 @@
 <div align="center">
   <samp>
       <br>
-      Hi there! I'm <b>Antônio Sousa</b>
+      Hello, world! I'm <b>Antônio Sousa</b>
   </samp>
 </div>
 
