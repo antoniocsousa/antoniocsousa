@@ -34,11 +34,6 @@
       </samp>
   </summary>
   
-<br>
-
-##
-
-<br>
 
 <div align="center">
   <samp>
